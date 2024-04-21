@@ -1,4 +1,4 @@
-# Hi there, I'm [Modefoluwa] 👋
+# Hello wonderful people, I'm [Modefoluwa] 👋
 
 I'm a Computer Engineering student, Technical Writer, and Front-end Engineer passionate about crafting clean and effective code, writing comprehensive technical articles, and building user-friendly interfaces.
 
