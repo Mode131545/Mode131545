@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Modefoluwa] 👋
 
 I'm a Computer Engineering student, Technical Writer, and Front-end Engineer passionate about crafting clean and effective code, writing comprehensive technical articles, and building user-friendly interfaces.
 
@@ -26,6 +26,6 @@ Check out my latest articles on [Hashnode](https://hashnode.com/@your-username) 
 
 ## Let's Connect! 🌐
 
-If you're interested in collaboration, technical writing projects, or front-end development opportunities, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-handle).
+If you're interested in collaboration, technical writing projects, or front-end development opportunities, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/modefoluwa-adeniyi-samuel-7971a321a) or [Twitter](https://x.com/Mode_the_first?t=HJTRCmDGB7wIHJoClBKIUQ&s=09).
 
 Happy coding and writing! ✨
