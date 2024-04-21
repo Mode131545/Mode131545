@@ -22,7 +22,7 @@ I'm a Computer Engineering student, Technical Writer, and Front-end Engineer pas
 
 ## My Articles on Hashnode ✍️
 
-Check out my latest articles on [Hashnode](https://hashnode.com/@your-username) covering a variety of technical topics and industry insights.
+Check out my latest articles on [Hashnode](https://mode9writes.hashnode.dev/) covering a variety of technical topics and industry insights.
 
 ## Let's Connect! 🌐
 
